@@ -32,3 +32,6 @@ __pycache__
 # Dependency files
 /web/pnpm-lock.yaml
 /web/pnpm-workspace.yaml
+
+# Server logs
+/serve/logs
